@@ -19,3 +19,4 @@ Follw these steps to get this up and running.
 
 Done. Enjoy the user's info emailed right to your account!
 
+If you encounter any issue please report it in the issues tab.
