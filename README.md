@@ -1,4 +1,4 @@
-# bomber
+# Extractor
 I DO NOT CONDONE ANY MAILICIOUS ACTION THAT IS USED WITH MY PROGRAM, IT IS SIMPLY FOR EDUCATIONNAL PURPOSES ONLY!!!
 
 Snag info from a victim's computer and send it to a gmail account. (Can send it to itself)
