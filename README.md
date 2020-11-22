@@ -1,9 +1,11 @@
 # bomber
 I DO NOT CONDONE ANY MAILICIOUS ACTION THAT IS USED WITH MY PROGRAM, IT IS SIMPLY FOR EDUCATIONNAL PURPOSES ONLY!!!
 
-Snag info from a victim's computer and send it to a gmail account.
+Snag info from a victim's computer and send it to a gmail account. (Can send it to itself)
 
-To do this first you need python 3.8 (python.org) installed.
+Follw these steps to get thi up and running.
+
+1. You need python 3.8 (python.org) installed.
 
 2. You must clone this repository the way you want.
 
