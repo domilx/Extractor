@@ -1,8 +1,10 @@
 # Extractor
 
+Snag info from a victim's computer and send it to a gmail account (Can send the email to itself).
+
 I DO NOT CONDONE ANY MAILICIOUS ACTION THAT IS USED WITH MY PROGRAM, IT IS SIMPLY FOR EDUCATIONNAL PURPOSES ONLY!!!
 
-Snag info from a victim's computer and send it to a gmail account (Can send the email to itself).
+READ ALL THE INSTRUCTIONS FOR IT TO WORK!
 
 Follw these steps to get this up and running.
 
@@ -24,7 +26,7 @@ Follw these steps to get this up and running.
 
 6. Once on the victim's pc you may run the Grabber.bat.
 
-Make sure that the final names are Grabber.bat and Sender.exe (YOU NEED BOTH FILES IN THE SAME PATH FOR IT TO WORK).
+Make sure that the final names are Grabber.bat, Sender.exe and Payload.bat (YOU NEED BOTH FILES IN THE SAME PATH FOR IT TO WORK).
 
 The file Grabber.bat is not compatible with my .bat to .exe converter.
 
