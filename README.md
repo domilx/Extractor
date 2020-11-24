@@ -26,7 +26,7 @@ Follw these steps to get this up and running.
 
 6. Once on the victim's pc you may run the Grabber.bat.
 
-Make sure that the final names are Grabber.bat, Sender.exe and Payload.bat (YOU NEED BOTH FILES IN THE SAME PATH FOR IT TO WORK).
+Make sure that the final names are Grabber.bat, Sender.exe and Payload.bat (YOU NEED ALL THREE FILES IN THE SAME PATH FOR IT TO WORK).
 
 The file Grabber.bat is not compatible with my .bat to .exe converter.
 
